@@ -33,10 +33,6 @@ __Caution__ : The potentiometer should be adjusted using debug mode. `INTERRUPT_
 | 2020/09/20 @ 18h15 | 2177 994 | 0 | 0 | 0 |
 | 2020/09/26 @ 10h56 | 2180 397 | 2405 | 2403 | __2__ |
 
-## 3D CNY70 Holder
-
-See my old project, nothing changed here : <https://github.com/fguiet/water-meter>
-
 ## In real life
 
 * CNY70 Sensor + custom 3D printed holder on water meter
@@ -47,20 +43,3 @@ See my old project, nothing changed here : <https://github.com/fguiet/water-mete
 
 ![Water Meter V2](images/water-meter-v2-lorawan.png)
 
-## Some charts
-
-Proof of concept : some charts
-
-* Water consumption per hour
-
-![Water Consumption per hour](images/water_consumption_per_hour.jpg)
-
-* Water consumption per day
-
-As you can see, on average, we consume around 400 liter per day (we are 4 in the house).
-
-![Water Consumption per day](images/water_consumption_per_day.jpg)
-
-## Known issues
-
-At the moment, one issue : <https://github.com/matthijskooijman/arduino-lmic/issues/293>
