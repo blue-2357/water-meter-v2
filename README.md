@@ -35,9 +35,6 @@ __Caution__ : The potentiometer should be adjusted using debug mode. `INTERRUPT_
 
 ## In real life
 
-* CNY70 Sensor + custom 3D printed holder on water meter
-
-![Water Meter V2](images/watermeter_cny70.jpg)
 
 * The electronic parts in the waterproof box
 
